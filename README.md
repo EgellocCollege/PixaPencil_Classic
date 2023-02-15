@@ -1,3 +1,6 @@
+# PixaPencilV2 
+See https://github.com/therealbluepandabear/PixaPencil
+
 ## Public archive
 I have not found anyone serious enough to overtake development of this app (and I do not believe I will) -- this project is now officially publically archived. 
 
